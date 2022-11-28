@@ -8,4 +8,4 @@
   
   <br>
   
-  <a href="https://github.com/betrayedpeople" target="_blank"><img src="https://img.shields.io/badge/TEAM3-000000?style=for-the-badge&logo=181717&logoColor=white"/></a>
+  <a href="https://github.com/betrayedpeople" target="_blank"><img src="https://img.shields.io/badge/TEAM3-000000?style=for-the-badge&logo=#181717&logoColor=white"/></a>
