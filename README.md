@@ -22,7 +22,7 @@
 
   <br><br>
   
-  ## Github Stats
+  ## :pushpin: Github Stats
   
   <br>
   
