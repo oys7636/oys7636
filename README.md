@@ -8,4 +8,4 @@
   
   <br>
   
-  <a href="https://github.com/ossQB" target="_blank"><img src="https://img.shields.io/badge/2team-5468FF?style=for-the-badge&logo=Apostrophe&logoColor=white"/></a>
+  <a href="https://[github.com/ossQB](https://github.com/betrayedpeople)" target="_blank"><img src="https://img.shields.io/badge/2team-5468FF?style=for-the-badge&logo=Apostrophe&logoColor=white"/></a>
