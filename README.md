@@ -19,3 +19,11 @@
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
   <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+  <br><br>
+  
+  ## Github Stats
+  
+  <br>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oys7636&&show_icons=true&theme=dracula)]
